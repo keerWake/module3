@@ -1,0 +1,41 @@
+/*
+Purple: #4A3267
+Dark Pink: #DE638A
+Pink: #F7B9C4
+Baby Pink: #F3D9E5
+Light Purple: #C6BADE
+*/
+body{
+    background:#F3D9E5;
+    padding: 2%;
+}
+
+
+a{
+    color:#4A3267;
+}
+
+a:hover{
+    color: #DE638A;
+    text-decoration: none;
+}
+.resume{
+    background: url(../images/annie-spratt-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+
+.content-wrapper{
+    background: rgb(198, 186, 222, 0.5);
+}
+
+.btn{
+    background: #4A3267;
+    color: #F3D9E5;
+    text-decoration: none;
+}
+
+footer{
+    background: #F3D9E5;
+    color:#DE638A;
+}
+
